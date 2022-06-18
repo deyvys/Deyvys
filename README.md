@@ -1,8 +1,10 @@
-## Olá Seja bem vindo ao meu Github 🤙.
+##  Olá Seja bem vindo ao meu Github.
 
-Sou analista de suporte Técnico, trabalho com sistema Erp ( Sistema integrado de gestão empresarial ) e suporte N1, N2 e N3.
+Sou analista de suporte Técnico, trabalho com sistema Erp ( Sistema integrado de gestão empresarial )
 
-Atualmente estou estudando com ênfase net.core e c#. 
+Atualmente trabalho na Datainfo Sistemas.
+Tenho esdudado docker e c#
+Posso colaborar com conhecimento e rotinas de sistemas. 
 
 
 <div align="center">
@@ -14,7 +16,13 @@ Atualmente estou estudando com ênfase net.core e c#.
   <img align="center" alt="Deyvys-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Deyvys" height="150" style="border-radius:50px;" src="">
 </div>
-  
+       SQL 1:20h - 56.28% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+      PHP 0:50h - 35.44% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+gitrebase 0:11h -  8.27% ▓▓▓▓ 
+     JSON 0:00h -  0.01%  
+     YAML 0:00h -  0.00%   
+     
+    
   ##
  
 <div> 
