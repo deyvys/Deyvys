@@ -10,7 +10,7 @@ Posso colaborar com conhecimento e rotinas de sistemas.
 
 <div align="center">
   <a href="https://github.com/deyvys">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deyvys&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deyvys&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   
   
     
@@ -41,7 +41,7 @@ Posso colaborar com conhecimento e rotinas de sistemas.
   <a href = "mailto:deyvyssilva25@gmail.com"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
   <a href = "mailto:deyvyssilva25@gmail.com"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=whit"></a>
   
-  
+    
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
