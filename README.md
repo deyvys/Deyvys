@@ -1,10 +1,11 @@
 ##  Olá Seja bem vindo ao meu Github.
 
-Sou analista de suporte Técnico
-trabalho com sistema Erp ( Sistema integrado de gestão empresarial )
+Sou analista de suporte Técnico trabalho com sistema Erp ( Sistema integrado de gestão empresarial )
 
 Atualmente trabalho na Datainfo Sistemas.
+
 Estudando docker e c#
+
 Posso colaborar com conhecimento e rotinas de sistemas. 
 
 ##
