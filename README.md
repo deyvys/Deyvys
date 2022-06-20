@@ -26,15 +26,11 @@ Posso colaborar com conhecimento e rotinas de sistemas.
    <img align="center" alt="Deyvys-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Deyvys-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   
-##           
+         
 
 </div>
   
-##
- 
- 
-     
-    
+   
   ##
  
 <div> 
@@ -43,7 +39,7 @@ Posso colaborar com conhecimento e rotinas de sistemas.
   <a href = "mailto:deyvyssilva25@gmail.com"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
   <a href = "mailto:deyvyssilva25@gmail.com"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=whit"></a>
   
-    
+  ##   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
