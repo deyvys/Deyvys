@@ -31,16 +31,7 @@ Posso colaborar com conhecimento e rotinas de sistemas.
   
 ##
  
-  Algoritmo 40:00h - 100.00% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  
-  MySQL 40:00h - 100.00% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  
-  Git e GitHub - 80.00% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  
-  c# - 20.00% ▓▓▓▓▓▓▓▓▓▓▓
-  
-  
-   
+ 
      
     
   ##
