@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente trabalho na empresa [Datainfo Sistemas](https://datainfo.com.br/)
 
-- 🌱 Atualmente estou estudando: .NET Framework e Linguagem C#
+- 🌱 Atualmente estou estudando:  .NET Framework e Linguagem C#
 
 - 👨‍💻 Projetos em andamento [https://netshops.azurewebsites.net/](https://netshops.azurewebsites.net/)
 
